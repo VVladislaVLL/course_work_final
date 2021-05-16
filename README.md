@@ -1,8 +1,8 @@
 # Plants vs Zombies
 
-Демо: 
+Демо: https://course-work-game.netlify.app/
 
-Документация движка: 
+Документация движка: https://github.com/VVladislaVLL/course_work_final/blob/main/src/engine/docs.md
 
 Для запуска игры:
 
